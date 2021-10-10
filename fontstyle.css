@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+h2 {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: italic;
+}
